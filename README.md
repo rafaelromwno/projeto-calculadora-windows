@@ -56,6 +56,10 @@ Durante o desenvolvimento deste projeto, foram consolidados os seguintes conceit
 
 ---
 
+## Imagem do projeto
+
+![calc](https://github.com/user-attachments/assets/374914e1-6c4e-48ed-a1ab-7feaf870ae9c)
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou novas funcionalidades.
